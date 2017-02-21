@@ -1,0 +1,35 @@
+
+quiz 1, 2 - examples 1 to 10
+
+quiz 3 - examples 11, 12
+
+quiz 4 - examples 13, 14, 15
+
+quiz 5 -  example 16
+
+quiz 6 -  example 17
+
+quiz 7 - examples 18 to 21
+
+quiz 8 - example 22
+
+quiz 9 - example 23 to 27
+
+quiz 10 - examples 28, 29
+
+quiz 11 - example 30
+
+quiz 12 - example 31 to 33
+
+quiz 13,14 - example 34 to 37
+
+quiz 15 - examples 38, 39
+
+quiz 16 - examples 40 to 42
+
+quiz 17 - examples 43 to 49
+
+quiz 18 - examples 50 to 61
+
+quiz 19 (prime check) - all/any
+
