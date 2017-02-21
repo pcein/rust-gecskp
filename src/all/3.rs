@@ -2,6 +2,8 @@
  * the score submission process. Don't worry
  * about them!
  */
+
+#![allow(dead_code, unused_imports)]
  
 mod submit;
 mod myconfig;
