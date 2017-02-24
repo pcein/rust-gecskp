@@ -1,6 +1,7 @@
 
 
-Rust workshop materials - Amal Jyothi College 
-of Engineering - February 22nd, 2017.
+Rust workshop materials - Govt. Engineering
+College, Palakkad - February 27th, 2017.
+
 
 
